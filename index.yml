@@ -1,0 +1,8 @@
+- id: stash-lovense-visualizer
+  name: Lovense Visualizer & Sync
+  metadata:
+    description: Visualise les fichiers .funscript en temps réel et se connecte à Lovense
+  version: 0.1-alpha.2
+  date: 2026-07-09 14:45:00
+  path: https://github.com/highskull08/stash-lovense-visualizer/archive/refs/tags/v0.1-alpha.2.zip
+  sha256: "16b2308fce6c830529591dd2b3e504b9f4300f98012e507a321484f8f055f4e9"
