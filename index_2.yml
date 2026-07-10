@@ -1,0 +1,8 @@
+- id: funscript-visualizer
+  name: funscript visualizer
+  metadata:
+    description: Visualise les fichiers .funscript en temps réel
+  version: 0.1-alpha.1
+  date: 2026-07-10 13:00:00
+  path: https://github.com/highskull08/funscript-visualizer/archive/refs/tags/v0.1-alpha.1.zip
+  sha256: "75a70b04a7bf063ca8f185df56b57eb64a0f589ee3b6155ccf063147498aa2ab"
